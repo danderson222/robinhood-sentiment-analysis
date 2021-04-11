@@ -2,7 +2,7 @@
 ### Using relevant tweets to understand how people feel about brands (Now you can put that on your resume!)
 
 #### "Dylan Anderson"
-####'2021-04-13'
+#### '2021-04-13'
 
 ![Photo by Tengyart from Unsplash](CoverPic-BrandSentiment.jpg)(https://unsplash.com/s/photos/emotion)
 
