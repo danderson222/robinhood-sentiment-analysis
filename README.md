@@ -4,7 +4,7 @@
 #### "Dylan Anderson"
 ####'2021-04-13'
 
-[![Photo by Tengyart from Unsplash](CoverPic-BrandSentiment.jpg)(https://unsplash.com/s/photos/emotion)
+![Photo by Tengyart from Unsplash](CoverPic-BrandSentiment.jpg)(https://unsplash.com/s/photos/emotion)
 
 Brands are essential. They live in our minds as ideas and each person constantly interacts with hundreds of brands a day, sometimes positively, sometimes negatively.
 
