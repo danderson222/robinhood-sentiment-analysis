@@ -1,20 +1,10 @@
----
-title: "Analyzing Brand Sentiment with Robinhood, Gamestop & R"
-author: "Dylan Anderson"
-date: '2021-04-13'
-banner: img/banners/robinhood-sentiment.png
-description: Using relevant tweets to understand how people feel about brands (Now you can put that on your resume!)
-slug: []
-categories:
-- RStats
-- Business
-tags:
-- Finance
-- Twitter
-- Brand
----
+## "Analyzing Brand Sentiment with Robinhood, Gamestop & R"
+### Using relevant tweets to understand how people feel about brands (Now you can put that on your resume!)
 
-[![Photo by Tengyart from Unsplash](CoverPic-BrandSentiment.jpg){width="639"}](https://unsplash.com/s/photos/emotion)
+#### "Dylan Anderson"
+####'2021-04-13'
+
+[![Photo by Tengyart from Unsplash](CoverPic-BrandSentiment.jpg)(https://unsplash.com/s/photos/emotion)
 
 Brands are essential. They live in our minds as ideas and each person constantly interacts with hundreds of brands a day, sometimes positively, sometimes negatively.
 
